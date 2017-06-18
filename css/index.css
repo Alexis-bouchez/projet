@@ -1,0 +1,17 @@
+/* img {
+-webkit-filter: blur(1px);
+-moz-filter: blur(1px);
+-o-filter: blur(1px);
+-ms-filter: blur(1px);
+
+filter: blur(1px);
+} */
+
+.navbar {
+  margin-bottom: 0;
+}
+
+
+.mtg {
+  height: 15px;
+}
