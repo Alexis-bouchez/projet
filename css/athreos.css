@@ -1,0 +1,27 @@
+body {
+    background-image:url(../img/gods/athreos.jpg);
+    font-size: cover;
+}
+
+.athreos_picture {
+  padding-top: 20px;
+  transition: all 1s;
+  width: 35%;
+}
+
+img:hover{
+  width: 50%;
+}
+
+.picture-athreos {
+  text-align: center;
+}
+
+.texte-contenant{
+  text-shadow: 1px 1px black;
+  box-shadow: 5px 5px 5px black;
+  font-size: 100%;
+  background-color: rgba(255,255,255,0.3);
+  border-radius: 20px;
+  padding: 20px;
+}
