@@ -6,6 +6,9 @@
 
 filter: blur(1px);
 } */
+.baniere {
+  width: 100%;
+}
 
 .navbar {
   margin-bottom: 0;
@@ -14,4 +17,17 @@ filter: blur(1px);
 
 .mtg {
   height: 15px;
+}
+
+.item {
+  font-family: 'magicthe_gatheringregular';
+
+}
+
+.dropdown {
+  font-family: 'magicthe_gatheringregular';
+}
+
+#myCarousel{
+    margin-top: 50px;
 }
